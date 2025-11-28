@@ -169,9 +169,8 @@ The worm creates a malicious HTML page that:
 This enables web‑based infection if the user opens the HTML.
 
 ============================================================
-
-                            <b>Summary of Each Function</b>
-
+							Summary of each Function
+							
 |Function	      |		What It Does                                        |
 |---------------------|-------------------------------------------------------------|
 |  main()	      |		Starts worm, copies itself, calls other routines    |
