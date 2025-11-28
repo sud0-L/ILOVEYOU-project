@@ -119,7 +119,7 @@ Returns 0 if file exists, 1 otherwise.
 
 ==============================================================
 
-<b>folderexist()<b>
+<b>folderexist()</b>
 
 Bugged: it incorrectly references fileexist instead of itself.
 
