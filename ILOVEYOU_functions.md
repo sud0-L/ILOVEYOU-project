@@ -169,8 +169,9 @@ The worm creates a malicious HTML page that:
 This enables web‑based infection if the user opens the HTML.
 
 ============================================================
-`
-									Summary
+
+=====================================================================================
+									  Summary
 															
 |Function	          |		What It Does                                            |
 |---------------------|-------------------------------------------------------------|
@@ -185,3 +186,5 @@ This enables web‑based infection if the user opens the HTML.
 |  folderexist()      |		Broken folder check                                     |
 |  spreadtoemail()    |		Worm spreads via Outlook mass-mail attack               |
 |  html()	          |		Generate HTML‑based infection vector                    |
+
+=====================================================================================
