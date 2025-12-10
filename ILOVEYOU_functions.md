@@ -170,7 +170,7 @@ This enables web‑based infection if the user opens the HTML.
 
 ============================================================
 
-|										Summary										|											
+|								      Summary										|						
 |Function	          |		What It Does                                            |
 |---------------------|-------------------------------------------------------------|
 |  main()	          |		Starts worm, copies itself, calls other routines        |
