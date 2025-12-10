@@ -170,18 +170,18 @@ This enables web‑based infection if the user opens the HTML.
 
 ============================================================
 							
-							Summary of each Function
-							
-|Function	      |		What It Does                                        |
+									<b>Summary</b>
+															
+|Function	          |		What It Does                                            |
 |---------------------|-------------------------------------------------------------|
-|  main()	      |		Starts worm, copies itself, calls other routines    |
-|  regruns()	      |		Persistence + Trojan download URLs                  |
-|  listadriv()	      |		Enumerate drives                                    |
-|  folderlist()	      |		Recursively explore directories                     |
-|  infectfiles()      |		Overwrite/replace files of many types with worm     |
-|  regcreate()	      |		Write registry entry                                |
-|  regget()	      |		Read registry entry                                 |
-|  fileexist()	      |		Check file existence                                |
-|  folderexist()      |		Broken folder check                                 |
-|  spreadtoemail()    |		Worm spreads via Outlook mass-mail attack           |
-|  html()	      |		Generate HTML‑based infection vector                |
+|  main()	          |		Starts worm, copies itself, calls other routines        |
+|  regruns()	      |		Persistence + Trojan download URLs                      |
+|  listadriv()	      |		Enumerate drives                                        |
+|  folderlist()	      |		Recursively explore directories                         |
+|  infectfiles()      |		Overwrite/replace files of many types with worm         |
+|  regcreate()	      |		Write registry entry                                    |
+|  regget()	          |		Read registry entry                                     |
+|  fileexist()	      |		Check file existence                                    |   
+|  folderexist()      |		Broken folder check                                     |
+|  spreadtoemail()    |		Worm spreads via Outlook mass-mail attack               |
+|  html()	          |		Generate HTML‑based infection vector                    |
