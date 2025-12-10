@@ -169,6 +169,7 @@ The worm creates a malicious HTML page that:
 This enables web‑based infection if the user opens the HTML.
 
 ============================================================
+							
 							Summary of each Function
 							
 |Function	      |		What It Does                                        |
