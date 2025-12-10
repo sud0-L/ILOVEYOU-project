@@ -170,9 +170,7 @@ This enables web‑based infection if the user opens the HTML.
 
 ============================================================
 
-=====================================================================================
-									  Summary
-															
+|-------------------------------------Summary---------------------------------------|															
 |Function	          |		What It Does                                            |
 |---------------------|-------------------------------------------------------------|
 |  main()	          |		Starts worm, copies itself, calls other routines        |
@@ -186,5 +184,4 @@ This enables web‑based infection if the user opens the HTML.
 |  folderexist()      |		Broken folder check                                     |
 |  spreadtoemail()    |		Worm spreads via Outlook mass-mail attack               |
 |  html()	          |		Generate HTML‑based infection vector                    |
-
-=====================================================================================
+|-----------------------------------------------------------------------------------|
